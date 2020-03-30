@@ -1,27 +1,10 @@
-import Header from '../components/Header';
-
-const Styles = {
-    body: {
-        fontFamily: 'Spartan',
-        fontSize: '14px',
-    },
-
-    header: {
-        fontFamily: 'Spartan',
-    },
-
-    content: {
-        marginTop: 100,
-        paddingLeft: 50,
-        paddingRight: 50,
-    },
-}
-
+import Styles from '../components/Theme';
+import Layout from '../components/Layout';
 
 export default function Index() {
     return (
         <div>
-            <Header />
+            <Layout />
             <div style={Styles.content}>
                 <h1 style={Styles.header}>About Me</h1>
                 <p style={Styles.body}>
