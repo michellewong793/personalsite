@@ -22,6 +22,7 @@ class MyDocument extends Document {
                             `
                         }}
                     />
+                    <title>Michelle Wong</title>
                 </Head>
                 <body>
                     <Main />
