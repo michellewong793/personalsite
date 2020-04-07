@@ -23,6 +23,7 @@ const Header = () => (
         <Link href="/blog">
             <a style={linkStyle}>Blog</a>
         </Link>
+        <a style={linkStyle} href="/Resume_March2020.pdf">Resume</a>
     </div>
 );
 
