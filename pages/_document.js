@@ -18,11 +18,9 @@ class MyDocument extends Document {
                                 font-family: "Spartan",
                                 font-size:16px,
                             }
-                            
                             `
                         }}
                     />
-                    <title>Michelle Wong</title>
                 </Head>
                 <body>
                     <Main />

@@ -13,12 +13,17 @@ let styles = {
         fontSize: '1rem',
         marginBottom: '10px',
         textDecoration: 'none',
-        color: 'navy'
     },
+
     content: {
         marginTop: 100,
-        paddingLeft: 50,
-        paddingRight: 50,
+        paddingLeft: '1rem',
+        paddingRight: '1rem',
+    },
+
+    flexContainer: {
+        display: 'flex',
+        flexDirection: 'row',
     },
 };
 
