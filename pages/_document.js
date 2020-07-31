@@ -14,11 +14,11 @@ class MyDocument extends Document {
                     <style
                         dangerouslySetInnerHTML={{
                             __html: `
-          body {
-            font-family: "Spartan"
-            
-          }
-          `
+                            body {
+                                font-family: "Spartan",
+                                font-size:16px,
+                            }
+                            `
                         }}
                     />
                 </Head>
