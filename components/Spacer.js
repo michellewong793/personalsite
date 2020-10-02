@@ -3,8 +3,8 @@
 
 const Spacer = (props) => {
     let spacerStyles = {
-        height: props.height,
-        width: props.width
+        height: props.height + 'rem',
+        width: props.width + 'rem'
     };
     return (<div style={spacerStyles}> </div>)
 };

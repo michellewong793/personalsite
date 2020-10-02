@@ -4,6 +4,14 @@ let styles = {
         fontSize: '14px',
     },
 
+    a: {
+        textDecoration: 'none',
+        color: 'purple',
+        hover: {
+            color: 'blue'
+        }
+    },
+
     header: {
         fontFamily: 'Spartan',
     },
