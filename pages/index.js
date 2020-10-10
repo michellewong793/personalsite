@@ -12,8 +12,13 @@ export default function Index() {
                 <p style={Styles.body}>i work at <a href="https://minaprotocol.com"> Mina Protocol, </a> and i helped built the site itself.  </p>
                 <p style={Styles.body}>check out my <a href="https://github.com/michellewong793">Github</a>, if you're curious.</p>
                 <Spacer height={2} />
-
+        `      
                 <h2 style={Styles.body}>i am an artist. i make   <a href="https://instagram.com/brain_to_ink"> paintings, drawings, poems. </a>
+                </h2>
+                
+                <Spacer height={2} />
+
+                <h2 style={Styles.body}>i write about asian american artists of today. if you're interested in being interviewed, please email me at michellewong793@gmail.com!  
                 </h2>
 
                 <Spacer height={2} />
@@ -24,7 +29,7 @@ export default function Index() {
                 <Spacer height={0.2} />
 
                 <p style={Styles.body}>Featured Story 1: <a href="https://thesophian.com/2018-10-25-poc-athlete-movement-demands-diversity-and-inclusion-in-athletics/">POC ATHLETE MOVEMENT DEMANDS DIVERSITY AND INCLUSION IN ATHLETICS</a> </p>
-                <p style={Styles.body}>Featured Story 2: <a href="https://thesophian.com/2019-2-14-finding-joy-in-the-everyday/">FINDING JOY IN THE EVERYDAY - ERADICATING SMITH CULTURE</a> </p>
+                <p style={Styles.body}>Featured Story 2: <a href="https://thesophian.com/2019-2-7-eradicating-smith-culture-i-smile-at-smith-students-i-dont-know-and-i-like-it/">FINDING JOY IN THE EVERYDAY - ERADICATING SMITH CULTURE</a> </p>
                 <p style={Styles.body}>Featured Cartoon: <a href="https://thesophian.com/2018-11-15-is-this-healing/">WHAT WORLD ARE YOU IN, SMITH? </a> </p>
 
                 <Spacer height={2} />
