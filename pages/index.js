@@ -23,7 +23,7 @@ export default function Index() {
 
                 <Spacer height={2} />
 
-                <h2 style={Styles.body}>i am a writer. </h2>
+                <h2 style={Styles.body}>i am a writer, and poet. </h2>
 
                 <p style={Styles.body}>i wrote stories, took photos, edited layout, and drew editorial cartoons, for my college's paper,  <a href="https://thesophian.com/?s=michelle+wong">The Sophian. </a></p>
                 <Spacer height={0.2} />
@@ -45,9 +45,6 @@ export default function Index() {
 
                     </ol>
                 </p>
-
-
-
             </div>
         </div >
     );
