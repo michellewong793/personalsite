@@ -33,6 +33,14 @@ let styles = {
         display: 'flex',
         flexDirection: 'row',
     },
+    imageDescription: {
+        height: '10%',
+        width: '100%',
+    },
+    beStillImage: {
+        height: '40%',
+        width: '100%',
+    }
 };
 
 export default styles;
