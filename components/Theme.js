@@ -3,13 +3,10 @@ let styles = {
         fontFamily: 'Spartan',
         fontSize: '14px',
     },
-
-    a: {
-        textDecoration: 'none',
-        color: 'purple',
-        hover: {
-            color: 'blue'
-        }
+    
+    h2: {
+        fontFamily: 'Spartan',
+        fontSize: '16px',
     },
 
     header: {
@@ -18,8 +15,7 @@ let styles = {
 
     link: {
         fontFamily: 'Spartan',
-        fontSize: '1rem',
-        marginBottom: '10px',
+        fontSize: '14px',
         textDecoration: 'none',
     },
 
@@ -27,6 +23,8 @@ let styles = {
         marginTop: 100,
         paddingLeft: '1rem',
         paddingRight: '1rem',
+        marginBottom: 100,
+
     },
 
     flexContainer: {

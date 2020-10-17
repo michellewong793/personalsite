@@ -10,6 +10,7 @@ export default function Mentor() {
                 <p style={Styles.body}>
                   <strong>Great teachers change lives. They help us see who we can be. They give us hope. Great teachers, coaches, mentors, seize opportunities in tumultuousness times and turn them into transformative moments. This is such a moment. How have our lives been changed by those whom we can never pay back?
                </strong> </p>
+                <h2 style={Styles.h2}> Outlines I Could Not See </h2> 
                 <p style={Styles.body}>
                     I chose to use watercolor painting because that is the medium I love the most. 
                     As a woman in tech, finding a mentor was really difficult. Once my mentor came into my life, he was always there for me. 
