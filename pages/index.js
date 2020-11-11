@@ -21,7 +21,7 @@ export default function Index() {
                 <a href="/mentor" style={Styles.link}> "Mentor" - a submission made for Be Still Media </a>
                 <Spacer height={2} />
 
-                <h2 style={Styles.body}>i am a writer. </h2>
+                <h2 style={Styles.body}>i am a writer and poet. </h2>
 
                 <Spacer height={0.2} />
 

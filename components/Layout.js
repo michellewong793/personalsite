@@ -39,10 +39,13 @@ const Header = () => (
         <Link href="/">
             <a style={linkStyle}>Home</a>
         </Link>
-        <Link href="/about">
-            <a style={linkStyle}>About</a>
-        </Link>
         <a style={linkStyle} href="/resume.pdf">Resume</a>
+        <Link href="/poems">
+            <a style={linkStyle}>Poetry</a>
+        </Link>
+        <Link href="/mentor">
+            <a style={linkStyle}>Mentor</a>
+        </Link>
     </div>
 );
 
