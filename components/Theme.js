@@ -23,6 +23,7 @@ let styles = {
         marginTop: 100,
         paddingLeft: '1rem',
         paddingRight: '1rem',
+        paddingBottom: '1rem',
         marginBottom: 100,
 
     },
