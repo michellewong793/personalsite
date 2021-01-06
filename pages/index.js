@@ -11,7 +11,8 @@ export default function Index() {
             <div style={Styles.content}>
                 <h1 style={Styles.header}>Hi, I'm Michelle Marsha Wong.</h1>
                 <h2 style={Styles.body}>i code.</h2>
-                <p style={Styles.body}>i work at <a href="https://minaprotocol.com" style={Styles.link} > Mina Protocol, </a> and i helped built the site itself.  </p>
+                <p style={Styles.body}>i work at cLabs building <a href="https://valoraapp.com" style={Styles.link} >Valora</a>.</p>
+                <p style={Styles.body}>i used to work at <a href="https://minaprotocol.com" style={Styles.link} > Mina Protocol, </a> and i helped built the site itself.  </p>
                 <p style={Styles.body}>check out my <a href="https://github.com/michellewong793" style={Styles.link} >Github</a>, if you're curious.</p>
                 <Spacer height={2} />
 
