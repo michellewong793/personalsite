@@ -3,7 +3,7 @@ let styles = {
         fontFamily: 'Spartan',
         fontSize: '14px',
     },
-    
+
     h2: {
         fontFamily: 'Spartan',
         fontSize: '16px',
@@ -40,6 +40,11 @@ let styles = {
         height: '40%',
         width: '100%',
     }
-};
+    ,
+    firstGenPromoCard: {
+        height: 'auto',
+        maxWidth: '100%',
 
+    }
+}
 export default styles;
