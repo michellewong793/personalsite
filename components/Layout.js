@@ -68,6 +68,14 @@ const Footer = () => (
       {" "}
       LinkedIn{" "}
     </a>
+    <a
+      style={linkStyle}
+      href="    https://www.buymeacoffee.com/micheburrito
+"
+    >
+      {" "}
+      Buy me a coffee{" "}
+    </a>
   </div>
 );
 
