@@ -9,4 +9,4 @@ Feel free to fork and take it and make it your own and use this as a template!
 
 Thank you for checking my website out :) 
 
-[michellurito.com](https://www.michellurito.com)
+[micheburrito.com](https://www.micheburrito.com)
