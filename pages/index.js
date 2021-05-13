@@ -7,17 +7,17 @@ export default function Index() {
     <div>
       <Layout />
       <div style={Styles.content}>
-        <h1 style={Styles.header}>Hi, I'm Miche.</h1>
-        <h2 style={Styles.body}>i code.</h2>
+        <h1 style={Styles.header}>Hello, I'm Miche.</h1>
+        <h2 style={Styles.body}>i make websites, and I can help you make yours.</h2>
         <p style={Styles.body}>
-          i work at cLabs building{" "}
+          currently, i work at cLabs building{" "}
           <a href="https://valoraapp.com" style={Styles.link}>
-            Valora
+            valoraapp.com
           </a>
           .
         </p>
         <p style={Styles.body}>
-          i used to work at{" "}
+          previously, i worked at{" "}
           <a href="https://minaprotocol.com" style={Styles.link}>
             {" "}
             Mina Protocol,{" "}
@@ -33,20 +33,20 @@ export default function Index() {
         </p>
         <Spacer height={2} />
         <h2 style={Styles.body}>
-          i am an{" "}
+          i am a visual{" "}
           <a href="https://instagram.com/brain_to_ink" style={Styles.link}>
             {" "}
-            artist.{" "}
+            artist, always open to collaborations with other cartoonists and writers!{" "}
           </a>
         </h2>
         <h2 style={Styles.body}>
-          i made a{" "}
+          i made a literary{" "}
           <a
             href="https://www.dropbox.com/h?preview=confessions_01.pdf"
             style={Styles.link}
           >
             {" "}
-            magazine.{" "}
+            magazine with my friend, Juliette. it's about our experiences with heartbreak.{" "}
           </a>
         </h2>
         <h2 style={Styles.body}>
@@ -56,13 +56,12 @@ export default function Index() {
             style={Styles.link}
           >
             {" "}
-            The First Gen podcast.{" "}
+            The First Gen podcast, which I do with my friend Diana, and we talk about our experiences working as first gen people.{" "}
           </a>
         </h2>
         <Spacer height={2} />
         <h2 style={Styles.body}>
-          i write a lot of things, and i used to be really into journalism and
-          write for my school papers.{" "}
+          i write a lot. i used to be editor-in-chief of The Lowell.{" "}
         </h2>
         <Spacer height={0.2} />
         <p style={Styles.body}>

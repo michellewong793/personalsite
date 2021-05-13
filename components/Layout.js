@@ -74,7 +74,7 @@ const Footer = () => (
 "
     >
       {" "}
-      Buy me a coffee{" "}
+      Buy me a coffee?{" "}
     </a>
   </div>
 );
