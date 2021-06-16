@@ -7,7 +7,7 @@ export default function Index() {
     <div>
       <Layout />
       <div style={Styles.content}>
-        <h1 style={Styles.header}>Hello, I'm Miche.</h1>
+        <h1 style={Styles.header}>Hello, I'm Miche (they/them).</h1>
         <h2 style={Styles.body}>i read, write, and debug code, and am a highly talented and hard-working 2019 graduate of the Smith College Computer Science department.</h2>
         <p style={Styles.body}>
           currently, i work at cLabs building{" "}
