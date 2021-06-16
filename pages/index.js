@@ -8,7 +8,7 @@ export default function Index() {
       <Layout />
       <div style={Styles.content}>
         <h1 style={Styles.header}>Hello, I'm Miche.</h1>
-        <h2 style={Styles.body}>i make websites, and I can help you make yours.</h2>
+        <h2 style={Styles.body}>i read, write, and debug code, and am a highly talented and hard-working 2019 graduate of the Smith College Computer Science department.</h2>
         <p style={Styles.body}>
           currently, i work at cLabs building{" "}
           <a href="https://valoraapp.com" style={Styles.link}>
@@ -22,7 +22,7 @@ export default function Index() {
             {" "}
             Mina Protocol,{" "}
           </a>{" "}
-          and i helped built the site itself.{" "}
+          and i helped built the site from scratch.{" "}
         </p>
         <p style={Styles.body}>
           check out my{" "}
@@ -61,8 +61,9 @@ export default function Index() {
         </h2>
         <Spacer height={2} />
         <h2 style={Styles.body}>
-          i write a lot. i used to be editor-in-chief of The Lowell.{" "}
+          i write on Medium about what I learn in life and in development.{" "}
         </h2>
+        <a href="https://smeeshgirl.medium.com" style={Styles.link}> read my thoughts on Medium!</a>
         <Spacer height={0.2} />
         <p style={Styles.body}>
           The Sophian:{" "}
