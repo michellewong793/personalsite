@@ -27,7 +27,7 @@ export default function Index() {
         <p style={Styles.body}>
           check out my{" "}
           <a href="https://github.com/michellewong793" style={Styles.link}>
-            Github
+            Github 
           </a>
           for more details, and the code (all open source).
         </p>
