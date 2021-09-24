@@ -8,11 +8,11 @@ export default function Index() {
       <Layout />
       <div style={Styles.content}>
         <h1 style={Styles.header}>Hello, I'm Miche (they/them).</h1>
-        <h2 style={Styles.body}>i read, write, and debug code, and am a highly talented and hard-working 2019 graduate of the Smith College Computer Science department.</h2>
+        <h2 style={Styles.body}>i read, write, and debug code to make beautiful frontend experiences.</h2>
         <p style={Styles.body}>
           currently, i work at cLabs building{" "}
-          <a href="https://valoraapp.com" style={Styles.link}>
-            valoraapp.com
+          <a href="https://celo.org" style={Styles.link}>
+            celo.org
           </a>
           .
         </p>
@@ -22,14 +22,14 @@ export default function Index() {
             {" "}
             Mina Protocol,{" "}
           </a>{" "}
-          and i helped built the site from scratch.{" "}
+          and i helped built the site starting from the first button, to several key components, especially the home and About pages.{" "}
         </p>
         <p style={Styles.body}>
           check out my{" "}
           <a href="https://github.com/michellewong793" style={Styles.link}>
             Github
           </a>
-          , if you're curious.
+          for more details, and the code (all open source).
         </p>
         <Spacer height={2} />
         <h2 style={Styles.body}>
