@@ -7,8 +7,8 @@ export default function Custom404() {
       <div>
         <Layout />
         <div style={Styles.content}>
-          <h1 style={Styles.header}>404t</h1>
-            <p style={Styles.p}>Hey! Looks like that link doesn't exist. </p>          
+          <h1 style={Styles.header}>404</h1>
+            <p style={Styles.body}>Hey! Looks like that link doesn't exist. </p>          
             <a href="/" style={Styles.link} >Take me home</a>          
 
         </div>
