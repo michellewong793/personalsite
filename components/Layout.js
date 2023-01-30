@@ -3,7 +3,6 @@ import Spacer from "./Spacer";
 
 const linkStyle = {
   marginRight: 15,
-  fontFamily: "Spartan",
   textDecoration: "none",
   color: "black",
 };
@@ -15,7 +14,7 @@ const header = {
   left: 0,
   width: "100%",
   height: "1rem",
-  backgroundColor: "pink",
+  backgroundColor: "#ADFF00",
   color: "white",
 };
 
@@ -26,7 +25,7 @@ const footer = {
   bottom: 0,
   width: "100%",
   height: "1rem",
-  backgroundColor: "pink",
+  backgroundColor: "#ADFF00",
   color: "white",
   display: "flex",
   justifyContent: "center",
@@ -34,18 +33,8 @@ const footer = {
 
 const Header = () => (
   <div style={header}>
-    <Link href="/">
-      <a style={linkStyle}>Home</a>
-    </Link>
-    <a style={linkStyle} href="/resume.pdf">
-      Resume
-    </a>
-    <Link href="/poems">
-      <a style={linkStyle}>Poetry</a>
-    </Link>
-    <Link href="/mentor">
-      <a style={linkStyle}>Mentor</a>
-    </Link>
+   
+  
   </div>
 );
 
@@ -60,13 +49,10 @@ const Layout = () => {
 
 const Footer = () => (
   <div style={footer}>
-    <a style={linkStyle} href="https://github.com/michellewong793">
-      {" "}
-      Github{" "}
-    </a>
+    
     <a style={linkStyle} href="https://linkedin.com/in/michellewong793">
       {" "}
-      LinkedIn{" "}
+      professional profile{" "}
     </a>
     <a
       style={linkStyle}
@@ -74,7 +60,7 @@ const Footer = () => (
 "
     >
       {" "}
-      Buy me a coffee?{" "}
+      talk to me{" "}
     </a>
   </div>
 );

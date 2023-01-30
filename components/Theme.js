@@ -1,20 +1,16 @@
 let styles = {
     body: {
-        fontFamily: 'Spartan',
         fontSize: '14px',
     },
 
     h2: {
-        fontFamily: 'Spartan',
         fontSize: '16px',
     },
 
     header: {
-        fontFamily: 'Spartan',
     },
 
     link: {
-        fontFamily: 'Spartan',
         fontSize: '14px',
         textDecoration: 'none',
     },
@@ -25,7 +21,10 @@ let styles = {
         paddingRight: '1rem',
         paddingBottom: '1rem',
         marginBottom: 100,
-
+        textAlign: 'center',
+        maxWidth: '700px',
+        marginLeft: 'auto',
+        marginRight: 'auto',
     },
 
     flexContainer: {

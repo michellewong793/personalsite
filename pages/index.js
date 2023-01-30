@@ -7,91 +7,36 @@ export default function Index() {
     <div>
       <Layout />
       <div style={Styles.content}>
-        <h1 style={Styles.header}>Hello, I'm Miche (they/them).</h1>
-        <h2 style={Styles.body}>i read, write, and debug code to make beautiful frontend experiences.</h2>
-        <p style={Styles.body}>
-          currently, i work at cLabs building{" "}
-          <a href="https://celo.org" style={Styles.link}>
-            celo.org
-          </a>
-          .
-        </p>
-        <p style={Styles.body}>
-          previously, i worked at{" "}
-          <a href="https://minaprotocol.com" style={Styles.link}>
-            {" "}
-            Mina Protocol,{" "}
-          </a>{" "}
-          and i helped built the site starting from the first button, to several key components, especially the home and About pages.{" "}
-        </p>
-        <p style={Styles.body}>
-          check out my{" "}
-          <a href="https://github.com/michellewong793" style={Styles.link}>
-            Github 
-          </a>
-          for more details, and the code (all open source).
-        </p>
+        <h1 style={Styles.header}>here lies the internet corner of <a href="https://twitter.com/uwu_miche">@uwu_miche. </a> </h1>
+        
+        <p> i'm a developer, designer, and founder working on something new in zk, privacy, and security. </p>
+        <p> my speciality is building generational tools to empower the next generation of technologists, healthcare agents, and lawyers. </p>
+        <p> my previous experiences include product and engineering in 3 early stage to Series B startups: <a href="https://minaprotocol.com">mina</a>,  
+         <a href="https://celo.org">celo</a> and <a href="https://entropy.xyz">entropy</a>. </p>
+
+        <h2>for the vcs: </h2>
+        <a href="https://micheburrito.medium.com" style={Styles.link}> tech blog: building in zero Knowledge Apps, web3. </a>
         <Spacer height={2} />
-        <h2 style={Styles.body}>
-          i am a visual{" "}
+        <h2>  for the coders:</h2>
+          <a href="https://github.com/michellewong793" style={Styles.link}>
+             github profile 
+          </a>
+   
+        <Spacer height={2} />
+        <h2>  for the art peeps:</h2>
+
           <a href="https://instagram.com/brain_to_ink" style={Styles.link}>
             {" "}
-            artist, always open to collaborations with other cartoonists and writers!{" "}
+             art insta
           </a>
-        </h2>
-        <h2 style={Styles.body}>
-          i made a literary{" "}
-          <a
-            href="https://www.dropbox.com/h?preview=confessions_01.pdf"
-            style={Styles.link}
-          >
-            {" "}
-            magazine with my friend, Juliette. it's about our experiences with heartbreak.{" "}
-          </a>
-        </h2>
-        <h2 style={Styles.body}>
-          i am the host of{" "}
-          <a
-            href="https://open.spotify.com/show/09FJCjGxjionhSWXNcOyFN?si=crE6gyZaRuKalq37PWoTBQ"
-            style={Styles.link}
-          >
-            {" "}
-            The First Gen podcast, which I do with my friend Diana, and we talk about our experiences working as first gen people.{" "}
-          </a>
-        </h2>
+       
+      
+         
+  
         <Spacer height={2} />
-        <h2 style={Styles.body}>
-          i write on Medium about what I learn in life and in development.{" "}
-        </h2>
-        <a href="https://smeeshgirl.medium.com" style={Styles.link}> read my thoughts on Medium!</a>
-        <Spacer height={0.2} />
-        <p style={Styles.body}>
-          The Sophian:{" "}
-          <a
-            style={Styles.link}
-            href="https://thesophian.com/2018-10-25-poc-athlete-movement-demands-diversity-and-inclusion-in-athletics/"
-          >
-            POC ATHLETE MOVEMENT DEMANDS DIVERSITY AND INCLUSION IN ATHLETICS
-          </a>{" "}
-        </p>
-        <p style={Styles.body}>
-          The Sophian:{" "}
-          <a
-            style={Styles.link}
-            href="https://thesophian.com/2019-2-7-eradicating-smith-culture-i-smile-at-smith-students-i-dont-know-and-i-like-it/"
-          >
-            FINDING JOY IN THE EVERYDAY - ERADICATING SMITH CULTURE
-          </a>{" "}
-        </p>
-        <p style={Styles.body}>
-          The Sophian Editorial Cartoon:{" "}
-          <a
-            style={Styles.link}
-            href="https://thesophian.com/2018-11-15-is-this-healing/"
-          >
-            WHAT WORLD ARE YOU IN, SMITH?{" "}
-          </a>{" "}
-        </p>
+      <p>inquiries: <a href="mailto:m@ourquest.xyz"> m@ourquest.xyz </a></p>
+      
+      
       </div>
     </div>
   );
