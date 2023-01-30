@@ -14,7 +14,7 @@ export default function Index() {
         <p> my previous experiences include product and engineering in 3 early stage to Series B startups: <a href="https://minaprotocol.com">mina</a>,  
          <a href="https://celo.org">celo</a> and <a href="https://entropy.xyz">entropy</a>. </p>
 
-        <h2>for the vcs: </h2>
+        <h2>for the lurkers: </h2>
         <a href="https://micheburrito.medium.com" style={Styles.link}> tech blog: building in zero Knowledge Apps, web3. </a>
         <Spacer height={2} />
         <h2>  for the coders:</h2>
