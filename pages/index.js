@@ -10,7 +10,7 @@ export default function Index() {
         <h1 style={Styles.header}>here lies the internet corner of <a href="https://twitter.com/uwu_miche">@uwu_miche. </a> </h1>
         
         <p> i'm a developer, designer, and founder working on something new in zk, privacy, and security. </p>
-        <p> my speciality is building generational tools to empower the next generation of technologists, healthcare agents, and lawyers. </p>
+        <p> my speciality is building generational tools to empower the next generation of technologists, healthcare agents, and more. </p>
         <p> my previous experiences include product and engineering in 3 early stage to Series B startups: <a href="https://minaprotocol.com">mina</a>,  
          <a href="https://celo.org">celo</a> and <a href="https://entropy.xyz">entropy</a>. </p>
 
