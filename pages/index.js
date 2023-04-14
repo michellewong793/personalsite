@@ -8,11 +8,17 @@ export default function Index() {
       <Layout />
       <div style={Styles.content}>
         <h1 style={Styles.header}>here lies the internet corner of <a href="https://twitter.com/uwu_miche">@uwu_miche. </a> </h1>
+        <p> i care deeply about the experience of women in software engineering. </p>
+        <p> here are some things i'm proud of:</p>
+        <p>teaching: i have taught friends how to code. i have mentored high school students whose languages are not English at hackathons. i write about my learnings on my <a href="https://micheburrito.medium.com">technical blog</a>. </p>
+      <p> art: i am currently challenging myself to paint a painting everyday. i do pet portatis. email me if you would like one! </p>
+      <p> community: i am working on an org called Queer Art Faire, which brings fun art events to young folks in San Francisco. always open to meeting more artists and local orgs who want to partner with us. </p>
+      <p> other art: i do live typewriter poetry cards for people at parties, helping folks get their deepest words out to their loved ones.</p>
+       <p> coding: i studied computer science at smith college, graduated in 2019. i since then have worked at three early-stage to Series B web3 startups, each with their individual projects ranging from complete websites, to integrations, to functional programming.</p>
         
-        <p> i'm a dev, designer, and founder working on something new for community builders. </p>
-        <p> my previous experiences include product and engineering in 3 early stage to Series B startups: <a href="https://minaprotocol.com">mina</a>,  
+        <p> companies that were blessed with miche wong <a href="https://minaprotocol.com">mina</a>,  
          <a href="https://celo.org">celo</a> and <a href="https://entropy.xyz">entropy</a>. </p>
-         <p>when im not working on my company, i love to sing, bowl (my highest is currently 157), watch theater, play ping pong, and paint. </p>
+         <p>when im not working on Queer Art Faire and building communities around art and coding, i love to sing, bowl (my highest is currently 157), watch theater, play ping pong, and paint. </p>
          <Spacer height={2} />
 
          <h2>  for artists:</h2>
@@ -40,7 +46,7 @@ export default function Index() {
          
   
         <Spacer height={2} />
-      <p>inquiries: <a href="mailto:m@ourquest.xyz"> m@ourquest.xyz </a></p>
+      <p>mentoring / collaboration inquiries: <a href="mailto:michellurito@gmail.com"> michellurito@gmail.com </a></p>
       
       
       </div>
