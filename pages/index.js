@@ -7,7 +7,7 @@ export default function Index() {
     <div>
       <Layout />
       <div style={Styles.content}>
-        <h1 style={Styles.header}>here lies the internet corner of <a href="https://twitter.com/uwu_miche">@uwu_miche. </a> </h1>
+        <h1 style={Styles.header}>here lies the corner of <a href="https://twitter.com/uwu_miche">@uwu_miche. </a> </h1>
         <p> i care deeply about the experience of women in software engineering. </p>
         <p> here are some things i'm proud of:</p>
         <p>teaching: i have taught friends how to code. i have mentored high school students whose languages are not English at hackathons. i write about my learnings on my <a href="https://micheburrito.medium.com">technical blog</a>. </p>
