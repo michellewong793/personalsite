@@ -30,6 +30,7 @@ let styles = {
     flexContainer: {
         display: 'flex',
         flexDirection: 'row',
+        justifyContent: 'space-between',
     },
     imageDescription: {
         height: '10%',

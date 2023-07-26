@@ -14,7 +14,6 @@ const header = {
   left: 0,
   width: "100%",
   height: "1rem",
-  backgroundColor: "#ADFF00",
   color: "white",
 };
 
@@ -25,7 +24,6 @@ const footer = {
   bottom: 0,
   width: "100%",
   height: "1rem",
-  backgroundColor: "#ADFF00",
   color: "white",
   display: "flex",
   justifyContent: "center",
@@ -52,7 +50,7 @@ const Footer = () => (
     
     <a style={linkStyle} href="https://linkedin.com/in/michellewong793">
       {" "}
-      professional profile{" "}
+      linkedin{" "}
     </a>
     <a
       style={linkStyle}
@@ -60,7 +58,7 @@ const Footer = () => (
 "
     >
       {" "}
-      talk to me{" "}
+      buy me a coffee{" "}
     </a>
   </div>
 );
